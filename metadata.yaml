@@ -1,11 +1,16 @@
 _repo: The-North-West-Amazons-Notes-of-some-months-spent-among-cannibal-tribes_55540
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55540-h/images/cover.jpg
 creator:
   author:
     agent_name: Whiffen, Thomas
     gutenberg_agent_id: '48391'
     url: http://www.gutenberg.org/2009/agents/48391
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55540#The-North-West-Amazons-Notes-of-some-months-spent-among-cannibal-tribes
 gutenberg_issued: '2017-09-13'
 gutenberg_type: Text
 identifiers:
